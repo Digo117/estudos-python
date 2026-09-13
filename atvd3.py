@@ -1,4 +1,3 @@
-
 #Questão 3
 
 quantidade = 0

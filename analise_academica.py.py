@@ -1,6 +1,3 @@
-# Nome: Rodrigo Barcellos Santos Silva
-# Matricula: 2026B012258
-
 # ENTRADA
 
 nome = input("Digite seu nome: ")
